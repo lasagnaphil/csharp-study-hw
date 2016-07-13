@@ -1,0 +1,21 @@
+[submodule "CsharpStudy"]
+	path = 용재
+	url = https://github.com/dydwo1127/CsharpStudy.git
+[submodule "study"]
+	path = 지뇽
+	url = https://github.com/kjyong1983/study.git
+[submodule "KSWSCOTT"]
+	path = 성욱
+	url = https://github.com/KSWSCOTT/KSWSCOTT.git
+[submodule "csharp-study"]
+	path = 민준
+	url = https://github.com/qria/csharp-study.git
+[submodule "programing_study"]
+	path = 문규
+	url = https://github.com/JeongMunKyu/programing_study.git
+[submodule "HyunGyu"]
+	path = 현규
+	url = https://github.com/rucy74/HyunGyu.git
+[submodule "CSharpStudy_HS"]
+	path = 현석
+	url = https://github.com/AirHorizons/CSharpStudy_HS.git
