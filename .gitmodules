@@ -19,3 +19,6 @@
 [submodule "CSharpStudy_HS"]
 	path = 현석
 	url = https://github.com/AirHorizons/CSharpStudy_HS.git
+[submodule "CSharpStudy1"]
+	path = 민령
+	url = https://github.com/KimMinryoung/CSharpStudy1.git
