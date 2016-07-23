@@ -22,3 +22,6 @@
 [submodule "CSharpStudy1"]
 	path = 민령
 	url = https://github.com/KimMinryoung/CSharpStudy1.git
+[submodule "CsharpHW_Jihoon"]
+	path = 지훈
+	url = https://github.com/Miletoss/CsharpHW_Jihoon
